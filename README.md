@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Borbaana Suvaan 👋
 
-<!--
-**bsuvaan/bsuvaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year B.Sc. student in **Mechanics and Mathematical Modeling** at  
+**I.M. Sechenov First Moscow State Medical University**.  
+My interests lie in **computational fluid dynamics (CFD)**, **numerical methods for PDEs**,  
+**compressible flows**, and **mathematical modeling of biological systems**.
 
-Here are some ideas to get you started:
+I enjoy building clean numerical solvers, experimenting with high-resolution schemes,  
+and studying nonlinear wave phenomena in physics and biology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+- Computational Fluid Dynamics (CFD)  
+- Compressible and Incompressible Gas Dynamics  
+- Numerical Methods for PDEs (finite difference, TVD, WENO, shock capturing)  
+- Biofluid Mechanics  
+- Mathematical Modeling of Biological Systems  
+
+---
+
+## 🧪 Research & Academic Experience
+
+### **Computational Mechanics Laboratory — Skolkovo Institute of Science and Technology (Skoltech)**  
+**Intern (2024 – present)** · Supervisor: *Prof. A. Kasimov*  
+- Studying compressible flows, shock waves, conservation laws, and nonlinear PDEs.  
+- Developed numerical experiments for Euler equations and high-resolution schemes.  
+- Gained hands-on experience with stability analysis, hyperbolic systems, and CFD modeling.
+
+**Selected coursework:**
+- *Advanced Fluid Mechanics: Compressible Flows* — steady/unsteady flows, shock/expansion waves  
+- *Fluid Mechanics* — boundary layers, gas thermodynamics, conservation laws  
+- *Numerical Methods for Conservation Laws* — weak solutions, Riemann solvers, TVD/WENO  
+- *Open Source Modeling* — built CFD simulations in OpenFOAM  
+  - Project: **"Bullet at Mach 1"**, studying shockwave formation  
+
+---
+
+## 📌 Projects
+
+### **CFD Simulation of a Bullet at Mach 1** *(OpenFOAM, 2025)*  
+Developed a compressible Euler flow model of a supersonic bullet to study  
+shockwave structures and stability.  
+**Skills:** OpenFOAM, Kurganov–Tadmor schemes, grid refinement, flow visualization.
+
+---
+
+### **Burgers–Fisher Equation with Space-Dependent Parameters** *(Julia, 2025)*  
+Explored nonlinear wave propagation in PDEs with variable coefficients.  
+Implemented RK-TVD, Lax–Friedrichs, and WENO5 schemes; analyzed parameter effects.  
+**Skills:** nonlinear PDEs, numerical schemes, traveling waves, stability analysis.
+
+---
+
+## 🛠 Technical Skills
+
+**Programming:** Python, Julia, C/C++, Bash  
+**Scientific Computing:** OpenFOAM, NumPy, Matplotlib  
+**Mathematics:** numerical PDEs, stability theory, finite difference methods  
+**Tools:** Git, LaTeX, Linux, VS Code, Jupyter  
+
+---
+
+## 🌐 Languages
+- **Russian** — native  
+- **English** — fluent  
+
+---
+
+## 📫 Contact
+**Email:** suvaanborbaana@gmail.com  
+**GitHub:** https://github.com/bsuvaan
