@@ -36,22 +36,6 @@ and studying nonlinear wave phenomena in physics and biology.
 
 ---
 
-## 📌 Projects
-
-### **CFD Simulation of a Bullet at Mach 1** *(OpenFOAM, 2025)*  
-Developed a compressible Euler flow model of a supersonic bullet to study  
-shockwave structures and stability.  
-**Skills:** OpenFOAM, Kurganov–Tadmor schemes, grid refinement, flow visualization.
-
----
-
-### **Burgers–Fisher Equation with Space-Dependent Parameters** *(Julia, 2025)*  
-Explored nonlinear wave propagation in PDEs with variable coefficients.  
-Implemented RK-TVD, Lax–Friedrichs, and WENO5 schemes; analyzed parameter effects.  
-**Skills:** nonlinear PDEs, numerical schemes, traveling waves, stability analysis.
-
----
-
 ## 🛠 Technical Skills
 
 **Programming:** Python, Julia, C/C++, Bash  
